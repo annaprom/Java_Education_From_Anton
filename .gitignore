@@ -1,0 +1,16 @@
+target
+reports
+.idea
+.project
+.classpath
+.settings
+.checkstyle
+gensrc/
+files/*.impex
+files/*.json
+files/*.jpg
+files/*.mp4
+files/*.xml
+drivers/
+/.sonar/
+/target/
